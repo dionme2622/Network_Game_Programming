@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yurul\\Desktop\\\uAC9C\uACF5\\3\uD559\uB144 2\uD559\uAE30\\Network_Game_Programming\\Network_Game_Programming\\Server_hw5\\Server_hw5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAA48E-0F93-4C8F-A434-7DD61553121E}|Server_hw5\\Server_hw5.vcxproj|C:\\Users\\yurul\\Desktop\\\uAC9C\uACF5\\3\uD559\uB144 2\uD559\uAE30\\Network_Game_Programming\\Network_Game_Programming\\Server_hw5\\Server_hw5\\Server_hw5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AEAA48E-0F93-4C8F-A434-7DD61553121E}|Server_hw5\\Server_hw5.vcxproj|solutionrelative:Server_hw5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yurul\\Desktop\\\uAC9C\uACF5\\3\uD559\uB144 2\uD559\uAE30\\Network_Game_Programming\\Network_Game_Programming\\Server_hw5\\Server_hw5\\Server_hw5\\main.cpp",
+              "RelativeDocumentMoniker": "Server_hw5\\main.cpp",
+              "ToolTip": "C:\\Users\\yurul\\Desktop\\\uAC9C\uACF5\\3\uD559\uB144 2\uD559\uAE30\\Network_Game_Programming\\Network_Game_Programming\\Server_hw5\\Server_hw5\\Server_hw5\\main.cpp",
+              "RelativeToolTip": "Server_hw5\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T17:29:09.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
